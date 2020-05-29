@@ -1,0 +1,5 @@
+C:\Users\JackYellow\Desktop\studentlib\studentlib\bin\Debug\studentlib.dll
+C:\Users\JackYellow\Desktop\studentlib\studentlib\bin\Debug\studentlib.pdb
+C:\Users\JackYellow\Desktop\studentlib\studentlib\obj\Debug\studentlib.csproj.CoreCompileInputs.cache
+C:\Users\JackYellow\Desktop\studentlib\studentlib\obj\Debug\studentlib.dll
+C:\Users\JackYellow\Desktop\studentlib\studentlib\obj\Debug\studentlib.pdb
